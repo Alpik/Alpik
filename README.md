@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, Alpik
+# 👋 Hey, I'm Alpik
 
 ### Full-Stack Developer | SaaS Builder | Problem Solver
 
