@@ -5,7 +5,7 @@
 ### Full-Stack Developer | SaaS Builder | Problem Solver
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mylinkhub.link-blue?style=for-the-badge)](https://mylinkhub.link)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alex-mag-a20426391/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/alpik)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mylinkhubofficial@gmail.com)
 
 *Building production-ready web applications from scratch with modern technologies*
@@ -193,7 +193,7 @@ I'm available for **freelance projects** and **collaborations** on:
 
 ### 📫 Let's Connect
 
-- 💬 [LinkedIn](https://www.linkedin.com/in/alex-mag-a20426391/)
+- 💬 [LinkedIn](www.linkedin.com/in/alpik)
 - 📧 [Email](mylinkhubofficial@gmail.com)
 - 🔗 [Portfolio](https://mylinkhub.link)
 
