@@ -164,7 +164,7 @@ Complete link-in-bio solution with payment processing, multi-language support, a
 - Usage analytics
 - Admin dashboard
 
-[→ View detailed README](link-to-linkhub-repo)
+[→ View detailed README](https://github.com/Alpik/linkhub-showcase)
 
 ---
 
