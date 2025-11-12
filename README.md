@@ -1,5 +1,4 @@
-div align="center">
-  
+
 # 👋 Hi, I'm Alexandre
 
 ### Full-Stack Developer | SaaS Creator | Freelance Available
