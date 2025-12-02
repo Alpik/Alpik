@@ -43,17 +43,21 @@
 
   ---
 
-  <h3>📫 Let's Connect & Build</h3>
+  <h3>📫 Hire Me & Connect</h3>
 
-  <div>
+  <div align="center">
     <a href="https://www.alexandremagnien.xyz" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-7B68EE?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website" />
     </a>
-    
     <a href="https://www.linkedin.com/in/alpik/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-
+    <a href="https://fr.fiverr.com/alpouk" target="_blank">
+      <img src="https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
+    </a>
+    <a href="https://www.upwork.com/freelancers/~010a471db71980cfa5" target="_blank">
+      <img src="https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
+    </a>
     <a href="mailto:alexandre.magnien29200@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
